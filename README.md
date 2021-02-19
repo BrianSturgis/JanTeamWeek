@@ -1,4 +1,4 @@
-![image of web](src/assets/images/UIscreenshot.JPG)
+![image of web](src/assets/images/UIscreenshot.jpg)
 
 # _Prescription_
 
